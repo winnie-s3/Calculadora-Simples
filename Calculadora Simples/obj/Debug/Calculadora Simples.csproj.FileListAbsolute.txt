@@ -1,0 +1,21 @@
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csprojResolveAssemblyReference.cache
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Form1.resources
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.Cache
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+E:\DS\winnie - calculadora\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+E:\DS\winnie - calculadora\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+E:\DS\winnie - calculadora\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+E:\DS\winnie - calculadora\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+E:\DS\winnie - calculadora\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+E:\DS\winnie - calculadora\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csprojResolveAssemblyReference.cache
+E:\DS\winnie - calculadora\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Form1.resources
+E:\DS\winnie - calculadora\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+E:\DS\winnie - calculadora\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.Cache
+C:\Users\winni\Downloads\winnie - calculadora 1\winnie - calculadora\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.AssemblyReference.cache
+C:\Users\winni\Downloads\winnie - calculadora 1\winnie - calculadora\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+C:\Users\winni\Downloads\winnie - calculadora 1\winnie - calculadora\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
